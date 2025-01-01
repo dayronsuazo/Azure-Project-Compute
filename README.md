@@ -1,4 +1,4 @@
-# Microsoft Azure Projects - Deploying a Scalable Web Application Using Azure App Service.
+# Microsoft Azure Projects - Deploying a Scalable Web Application Using Azure App Service. (Compute)
 
 *Overview*
 The main objective of this project is to deploy a scalable web application on Azure App Service, showcasing how to leverage Azure's platform to host, manage and auto-scale applications efficiently. It aims to create an App Service Plan, deploying a web app and configuring scaling rules to handle varying workloads, ensuring optimal performance and cost-effectiveness.
