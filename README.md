@@ -6,7 +6,7 @@ The main objective of this project is to deploy a scalable web application on Az
 The steps include:
 
 Log in to Azure Portal: Access Azure services with a Microsoft account.
-Create an App Service Plan: Set up an App Service Plan with a free-tier subscription, select a runtime stack (Node.js, Python, .NET, etc.), and choosing a region.
+Create an App Service Plan: Set up an App Service Plan with a free-tier subscription, select a runtime stack (Node.js, Python, .NET, etc.) and choosing a region.
 Deploy Your Application: Using GitHub Actions 
 Configure Auto-Scaling: Set scaling rules to manage instances based on CPU usage.
 Verify Deployment: Access the live application via the default domain URL.
@@ -14,12 +14,10 @@ Verify Deployment: Access the live application via the default domain URL.
 This guide simplifies deploying, managing and scaling a web application in the cloud using Microsoft Azure platform.
 
 Example:
-A developer is tasked with creating a lightweight e-commerce site for a small business. The site will showcase products, handle customer inquiries and support basic user interactions.
+Job Specific Scenario - Deploying a Corporate Intranet Portal
 
-Why Use Azure App Service?
+A scalable intranet portal for external members to access resources, such as HR policies, announcements and other tools. I was tasked with deploying the portal using Azure App Service for ease of management and scalability.
 
-Scalability: The site might experience traffic spikes during sales or promotions, requiring the app to scale dynamically.
-Ease of Deployment: Using GitHub Actions or manual deployment, the developer can quickly push updates and bug fixes.
-Cost Efficiency: By starting with the free tier and enabling scaling only when necessary, the small business can manage operational costs effectively.
-Reliability: Azure App Service ensures high availability and global reach, which is critical for customer satisfaction.
-By following this project, the developer can deploy the e-commerce site, ensure it handles real-world demands, and provide a seamless experience to customers without worrying about infrastructure management.
+Outcome: The intranet portal is live, accessible to external members and ready to scale dynamically based on usage, ensuring a smooth experience without overprovisioning resources.
+
+This setup reduces downtime, optimises costs and minimises manual effort for scaling and maintenance.
