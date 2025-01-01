@@ -13,7 +13,7 @@ Verify Deployment: Access the live application via the default domain URL.
 
 This guide simplifies deploying, managing and scaling a web application in the cloud using Microsoft Azure platform.
 
-###Example###:
+Example:
 A developer is tasked with creating a lightweight e-commerce site for a small business. The site will showcase products, handle customer inquiries and support basic user interactions.
 
 Why Use Azure App Service?
